@@ -11,7 +11,7 @@ Você pode visualizar o resultado final do projeto através do link abaixo:
 
 ## 💻 Visualização do Projeto
 
-![Prévia da página da HBO Max desenvolvida](.src/img/hboproj.jpg)
+![Prévia da página da HBO Max desenvolvida](./src/img/hboproj.jpg)
 
 
 
