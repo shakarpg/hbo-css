@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como um desafio de front-end, cujo objetivo era re
 
 Você pode visualizar o resultado final do projeto através do link abaixo:
 
-**[Clique aqui para ver o projeto online](https://SEU-USUARIO.github.io/SEU-REPOSITORIO/)**
+**[Clique aqui para ver o projeto online](https://shakarpg.github.io/hbo-css/)**
 
 *(Lembre-se de substituir o link acima pelo link do seu GitHub Pages)*
 
