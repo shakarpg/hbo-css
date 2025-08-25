@@ -8,13 +8,12 @@ Você pode visualizar o resultado final do projeto através do link abaixo:
 
 **[Clique aqui para ver o projeto online](https://shakarpg.github.io/hbo-css/)**
 
-*(Lembre-se de substituir o link acima pelo link do seu GitHub Pages)*
 
 ## 💻 Visualização do Projeto
 
 ![Prévia da página da HBO Max desenvolvida](assets/img/preview.png)
 
-*(Sugestão: tire um print da sua tela e salve como `preview.png` dentro da pasta `assets/img`)*
+
 
 ## ✨ Funcionalidades e Técnicas Aplicadas
 
